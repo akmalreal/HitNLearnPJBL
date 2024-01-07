@@ -1,0 +1,11 @@
+Materi 1
+Ini adalah teks materi untuk Materi 1.
+gambar_materi_1
+
+Materi 2
+Ini adalah teks materi untuk Materi 2.
+gambar_materi_2
+
+Materi 3
+Ini adalah teks materi untuk Materi 3.
+gambar_materi_3
